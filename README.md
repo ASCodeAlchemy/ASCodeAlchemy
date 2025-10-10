@@ -4,7 +4,7 @@
 
 <!-- Profile Picture -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Ayush Sonar" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/ASCodeAlchemy/ASCodeAlchemy/blob/main/Banner.png" alt="Ayush Sonar" width="200" style="border-radius: 50%;" />
 </div>
 
 ---
@@ -50,7 +50,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🧠 [BraiLite](https://github.com/ASCodeAlchemy/BraiLite)
+#### 🧠 [BraiLite](https://github.com/ASCodeAlchemy/BrailleLite)
 > A Braille content generator platform that converts web content, PDFs, and scanned documents into Braille.  
 > *Tech:* Spring Boot, React.js, PostgreSQL, Tesseract OCR, Docker  
 
@@ -68,7 +68,7 @@
 
 ---
 
-#### 🤖 [IoT Smart Parking System](https://github.com/ASCodeAlchemy/SmartParkingSystem)
+#### 🤖 [IoT Smart Parking System](https://github.com/ASCodeAlchemy/pragyan)
 > An IoT-based parking solution using sensors and live data for optimal parking space management.  
 > *Tech:*  Arduino UNO, IR Sensors , LCD Display 
 
@@ -118,7 +118,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayush-sonar" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush-sonar-b20743298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://ascodealchemy.github.io/portfolio" target="_blank">
