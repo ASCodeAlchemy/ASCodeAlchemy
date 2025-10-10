@@ -9,7 +9,7 @@
 
 ---
 
-> "Strive not to be a success, but rather to be of value." – *Albert Einstein*
+> "Programming isn’t about what you know; it’s about what you can figure out." – *Chris Pine*
 
 ---
 
