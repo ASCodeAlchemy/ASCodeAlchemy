@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ayush Sonar</h1>
-<h3 align="center">🚀 Backend Developer | Crafting Seamless & Scalable Server-Side Applicationsr</h3>
+<h3 align="center">🚀 Backend Developer | Crafting Seamless & Scalable Server-Side Applications</h3>
 
 <!-- Profile Picture -->
 <div align="center">
