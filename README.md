@@ -4,7 +4,7 @@
 
 <!-- Profile Picture -->
 <div align="center">
-  <img src="https://github.com/ASCodeAlchemy/ASCodeAlchemy/blob/main/Banner.png" alt="Ayush Sonar" width="200" style="border-radius: 50%;" />
+  <img src="https://github.com/ASCodeAlchemy/ASCodeAlchemy/blob/main/Banner.png" alt="Ayush Sonar" width="500" style="border-radius: 50%;" />
 </div>
 
 ---
